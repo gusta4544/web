@@ -1,0 +1,39 @@
+* {
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Signika Negative', sans-serif;
+
+}
+
+header {
+    text-align: center;
+    background-color: black;
+    color: antiquewhite;
+}
+section{
+    background-color: rgb(26, 80, 25);
+    color: rgb(148, 149, 150);
+    font-family: 'Signika Negative', sans-serif;
+    width: 700px;
+    height: 400px;
+    
+}
+
+.imagen1{
+    position: relative;
+    left: 710px;
+    width: 600px;
+    top: -400px;
+    height: 382px;
+}
+article{
+    background-color: rgb(26, 80, 25);
+    color: aliceblue;
+   text-align: center;
+}
+.video{
+   
+    margin: 20px;
+}
